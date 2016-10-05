@@ -6,6 +6,6 @@
     <string name="map_view">Map View</string>
     <string name="create_new_event">Create New Event</string>
     <string name="title_activity_maps">Map</string>
-    <string name="create_event">Create Event</string>
     <string name="profile_text">Profile</string>
+    <string name="create_event">Create Event</string>
 </resources>
